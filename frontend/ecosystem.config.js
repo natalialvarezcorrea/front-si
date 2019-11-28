@@ -2,7 +2,7 @@ module.exports = {
   apps : [
 	{
        		name          : 'frontend-integration',
-       		script        : 'npx',
+       		script        : 'npm',
       	 	interpreter   : 'none',
        		args          : 'serve build -s',
        		env_production : {
