@@ -1,7 +1,7 @@
 module.exports = {
   apps : [
 	{
-       		name          : 'frontend-integration',
+       		name          : 'frontend',
        		script        : 'npm',
       	 	interpreter   : 'none',
        		args          : 'serve build -s',
